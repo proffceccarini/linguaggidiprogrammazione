@@ -1,12 +1,9 @@
-
-Scrivere un programma in linguaggio macchina era molto 
-più semplice e quindi il linguaggio macchina viene raramente scritto manualmente. 
-Invece, gli sviluppatori scrivono il codice in linguaggi di programmazione di alto livello e utilizzano compilatori o interpreti per convertirlo in linguaggio macchina eseguibile dalla CPU.
-
-
-Questo è un esempio semplificato, ma dimostra come le istruzioni Assembly siano più comprensibili rispetto al linguaggio macchina puro. Il codice Assembly viene successivamente tradotto in linguaggio macchina dalla CPU o da un assemblatore.
-
-Ricorda che gli esempi specifici possono variare in base all'architettura del processore. Le istruzioni per un processore x86 saranno diverse da quelle di un processore ARM, ad esempio.
+## Linguaggi di programmazione di alto livello
+Scrivere un programma in linguaggio macchina o in assembly richiedeva una approfondita conoscenza dell'architettura del processore. Inoltre era necessario riscrivere i programmi per essere eseguibili su diverse architetture a causa dsella sua non portabilità.
+Per questo motivo, già a aprtire daglòi anni '50 nacquero i primi linguaggi di programmazione di alto livello quali:
+1 Fortran (Anni '50): Il Fortran (Formula Translation) è stato uno dei primi linguaggi di alto livello sviluppati nel 1957 da IBM. Era orientato al calcolo scientifico e ha introdotto concetti come le istruzioni di loop.
+2 LISP (Anni '50): LISP (LISt Processing) è stato sviluppato da John McCarthy nel 1958 ed è stato il primo linguaggio di programmazione orientato alle liste. LISP ha avuto un impatto significativo nella programmazione simbolica e nell'intelligenza artificiale.
+3 COBOL (Anni '50): Il COBOL (COmmon Business-Oriented Language) è stato sviluppato nel 1959 per applicazioni commerciali e amministrative. Era progettato per essere facilmente leggibile e comprendere il linguaggio umano.
 
 I linguaggi di programmazione sono insiemi di regole e convenzioni utilizzati per scrivere istruzioni che un computer può comprendere ed eseguire. Queste istruzioni, chiamate codice sorgente, sono scritte dagli sviluppatori per creare programmi e applicazioni software. I linguaggi di programmazione consentono agli sviluppatori di comunicare con il computer in un modo comprensibile, fornendo un'interfaccia tra il pensiero umano e l'esecuzione delle istruzioni da parte della macchina.
 
